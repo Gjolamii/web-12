@@ -1,0 +1,30 @@
+#box1{
+	background-color:;
+	height: 360px;
+	width: 500px;
+	 position: relative;
+	 left: 550px; top: 200px;
+	
+
+}
+#box2{
+	background-color: ;
+	height: 30px;
+	width: 100px;
+	position: relative;
+	left: 1250px; bottom: 250px;
+}
+#box3{
+	background-color: ;
+	height: 300px;
+	width: 300px;
+	position: relative;
+	left: 180px;bottom:  530px;
+}
+#box4{
+	background-color:;
+	height: 100px;
+	width: 100px;
+	position: relative;
+	left: 180px;bottom:  700px;
+}
